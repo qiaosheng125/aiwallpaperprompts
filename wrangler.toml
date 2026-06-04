@@ -1,0 +1,8 @@
+name = "aiwallpaperprompts-likes"
+main = "workers/likes-worker.js"
+compatibility_date = "2026-05-31"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "aiwallpaperprompts-db"
+database_id = "12652259-45df-419b-9341-04b8bf634413"

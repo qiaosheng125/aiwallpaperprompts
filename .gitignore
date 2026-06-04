@@ -1,0 +1,17 @@
+.next
+node_modules
+.env*
+!.env*.example
+dist
+out
+
+.vercel
+.wrangler
+public/gallery/*
+!public/gallery/.gitkeep
+data/private/*
+!data/private/.gitkeep
+data/raw/*
+!data/raw/.gitkeep
+
+.vercel

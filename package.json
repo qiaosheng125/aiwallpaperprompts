@@ -1,0 +1,31 @@
+{
+  "name": "ai-wallpaper-prompt-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "thumbs": "node scripts/generate-thumbnails.mjs",
+    "import:gallery": "node scripts/import-gallery.mjs",
+    "daily:gallery": "node scripts/daily-gallery-update.mjs",
+    "migrate:r2": "node scripts/migrate-gallery-to-r2.mjs",
+    "smoke": "node scripts/smoke-check.mjs"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1057.0",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  },
+  "overrides": {
+    "postcss": "^8.5.10"
+  }
+}
