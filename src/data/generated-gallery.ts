@@ -3,6 +3,1601 @@ import type { GalleryItem } from './gallery';
 export const generatedGalleryItems: GalleryItem[] = 
 [
   {
+    "id": "wallpaper-41823172ed",
+    "slug": "river-desktop-wallpaper-prompt-for-image2-wallpaper-41823172ed",
+    "title": "River Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/938ce85747.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/938ce85747-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. An abandoned classroom half-flooded with clear, shallow water reflecting the pale blue ceiling above. White-tiled walls with cracked grout, overgrown with lush green vines and moss. Sunlight streams through tall arched windows on the left, casting soft warm beams across the water surface where white petals float. Wooden desks partially submerged, their legs casting rippled shadows. In the distance, an open door leads to a darker hallway. The atmosphere is quiet, liminal, and peaceful. Detailed wet textures, soft reflections, and atmospheric haze. Photorealistic style with a cinematic wide composition",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "River",
+      "Lo-fi Room"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Green"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T12:23:34+08:00"
+  },
+  {
+    "id": "wallpaper-d6aa9dfe0f",
+    "slug": "garden-impressionist-anime-desktop-wallpaper-prompt-for-image2-wallpaper-d6aa9dfe0f",
+    "title": "Garden Impressionist Anime Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around garden with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/e8bf669709.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/e8bf669709-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. Impressionist wide-screen wallpaper, 16:9 aspect ratio, no human figures. A tranquil garden path under late afternoon sunlight, visible short brushstrokes and broken color patches in complementary warm and cool hues. Soft-edged flowers and foliage in blues, purples, and golds blur into the background, with a narrow stream reflecting dappled light. Foreground consists of loose petal strokes and textured grass; midground features a weathered wooden bench half-shaded by an overhanging tree; background shows a hazy horizon with distant treetops. Airy atmosphere, gentle light and shadow interplay. High quality, detailed brushwork, painterly style",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime",
+      "Impressionist Anime"
+    ],
+    "scenes": [
+      "Garden"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Gold",
+      "Purple"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T11:25:30+08:00"
+  },
+  {
+    "id": "wallpaper-334fbaeebe",
+    "slug": "night-sky-desktop-wallpaper-prompt-for-image2-wallpaper-334fbaeebe",
+    "title": "Night Sky Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around night sky with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/302b788abf.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/302b788abf-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A cyberpunk cityscape at night, wide 16:9 aspect ratio, horizontal composition with space for icons on the left side. Towering skyscrapers with neon signs in cyan, magenta, and acid green, reflected on wet asphalt. A network of elevated walkways and holographic billboards filling the midground. Volumetric fog and steam rising from vents. Soft key light from a large neon panel on the right, casting cool blue and pink highlights. Focus on the dense urban depth and glowing electronic details. Ultra-detailed, cinematic lighting, realistic reflections, no people, no text",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Night Sky",
+      "River",
+      "City"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Pink",
+      "Green"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T11:08:57+08:00"
+  },
+  {
+    "id": "wallpaper-ec62b87b3f",
+    "slug": "river-impressionist-anime-desktop-wallpaper-prompt-for-image2-wallpaper-ec62b87b3f",
+    "title": "River Impressionist Anime Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/9ea5a1493b.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/9ea5a1493b-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. Impressionist widescreen wallpaper, 16:9. A serene garden path leading to a distant riverbank, bathed in warm golden hour light and cool blue shadows. Short visible brushstrokes, broken color patches, soft edges, and atmospheric haze. Lush green foliage with dappled light, a wooden bench partially in shadow, and a small stone bridge over a reflective stream. The scene is open and airy, with a horizontal composition that leaves breathing room on the left side for desktop icons. Vibrant complementary colors: warm yellows and oranges contrast with cool purples and blues. High quality, detailed brushwork, painterly style, no people, no text",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime",
+      "Impressionist Anime"
+    ],
+    "scenes": [
+      "River",
+      "Lo-fi Room",
+      "Garden"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Gold",
+      "Purple",
+      "Green"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T11:05:41+08:00"
+  },
+  {
+    "id": "wallpaper-4d85e43319",
+    "slug": "river-phone-wallpaper-prompt-for-image2-wallpaper-4d85e43319",
+    "title": "River Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/00e0b7d236.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/00e0b7d236-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original cloud train journey wallpaper no people, no characters, environment-led subject a train crossing a sea of clouds, window reflections, soft sky layers and journey-like depth cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "River",
+      "Train"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T11:01:36+08:00"
+  },
+  {
+    "id": "wallpaper-cc42cc5706",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-383-wallpaper-cc42cc5706",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #383",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/b6e06b8c83.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/b6e06b8c83-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. AMOLED black mobile wallpaper. Minimalist composition: a single delicate neon arc of pale cyan light curves diagonally across a pure black void, with faint glowing particles tracing its path. The arc is thin and precise, emitting a soft, cool glow that illuminates nothing else. A subtle metallic sheen on the arc suggests a polished edge. The background is entirely black, with no detail or texture. The composition is centered, with the arc occupying the upper-middle area, leaving the top and bottom 15% of the frame as dark negative space for lock screen usability. Style: minimalistic vector illustration with a futuristic touch. High resolution, sharp focus, OLED-friendly low brightness",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T10:53:55+08:00"
+  },
+  {
+    "id": "wallpaper-d52a81b9d2",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-381-wallpaper-d52a81b9d2",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #381",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/523f5b1d35.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/523f5b1d35-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original no-person wallpaper scene no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T09:41:37+08:00"
+  },
+  {
+    "id": "wallpaper-bead1bebb2",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-379-wallpaper-bead1bebb2",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #379",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/a6f7421ece.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/a6f7421ece-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original glitch art wallpaper no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T09:28:03+08:00"
+  },
+  {
+    "id": "wallpaper-26057494a1",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-377-wallpaper-26057494a1",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #377",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/c8b6f63922.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/c8b6f63922-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. Low-angle wide shot of a mountain sunrise with layered ridgelines, soft sea of clouds, and warm golden dawn light breaking through the horizon. The scene features a foreground of rocky terrain with sparse alpine grass, a middle ground of undulating cloud layers catching pink and gold hues, and distant snow-capped peaks fading into atmospheric perspective. The sky transitions from deep blue to warm orange near the horizon. The composition is balanced with the main focus on the central mountain ridge, leaving the left side with a calm, low-contrast area suitable for desktop icons. Cinematic lighting with strong backlight and subtle lens flare. Style: semi-realistic landscape wallpaper with detailed textures on rocks and clouds, clean and minimalist foreground. High detail, sharp focus, majestic atmosphere",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Pink",
+      "Gold"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T08:56:07+08:00"
+  },
+  {
+    "id": "wallpaper-cb7067d5e8",
+    "slug": "night-sky-desktop-wallpaper-prompt-for-image2-wallpaper-cb7067d5e8",
+    "title": "Night Sky Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around night sky with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/581106eb96.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/581106eb96-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A single flowing ribbon of liquid chrome with intense metallic reflections and subtle glassy edges, suspended in a dark gradient background that transitions from deep charcoal to midnight blue. The chrome ribbon curls in a graceful S-curve, with sharp highlights along its crests and soft refracted light beneath. The composition is horizontal, with the ribbon occupying the center-right, leaving the left side as a clean, low-contrast area suitable for desktop icons. A soft volumetric backlight from the upper left casts a warm amber glow on the ribbon's upper edge, while cool cyan specular highlights define the underside. The surface quality is ultra-smooth with a wet, glossy finish, no visible texture, no plastic. The background features a subtle atmospheric haze and distant pale light rays. The mood is futuristic and serene. Style: cinematic, hyper-realistic 3D render. High detail, no text, no watermark",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Night Sky",
+      "River"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T08:52:29+08:00"
+  },
+  {
+    "id": "wallpaper-6cee2a50df",
+    "slug": "starlight-desktop-wallpaper-prompt-for-image2-wallpaper-6cee2a50df",
+    "title": "Starlight Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around starlight with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/6d291461d4.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/6d291461d4-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original stardust dream room wallpaper no people, no characters, environment-led subject quiet bedroom-like dream space, floating stardust, soft window glow and surreal night atmosphere cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Starlight",
+      "Night Sky",
+      "Lo-fi Room"
+    ],
+    "moods": [
+      "Calm",
+      "Dreamy"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T08:27:52+08:00"
+  },
+  {
+    "id": "wallpaper-0c4b81c765",
+    "slug": "lo-fi-room-desktop-wallpaper-prompt-for-image2-wallpaper-0c4b81c765",
+    "title": "Lo-fi Room Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around lo-fi room with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/b51b785c72.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/b51b785c72-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A dreamcore liminal space wallpaper for 16:9 desktop. An empty school corridor with pale yellow fluorescent light, peeling paint, and worn linoleum floor. The corridor stretches into deep perspective, with rows of identical doors on each side, slightly ajar, revealing dim rooms. At the far end, an oversized window lets in blinding white light, casting long shadows. The atmosphere is nostalgic, quiet, and slightly unsettling. Subtle VHS grain and soft focus. Colors: faded yellow, off-white, pale blue. No people",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Lo-fi Room"
+    ],
+    "moods": [
+      "Calm",
+      "Dreamy"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T08:24:51+08:00"
+  },
+  {
+    "id": "wallpaper-82abd594b5",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-396-wallpaper-82abd594b5",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #396",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/c633d36e5f.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/c633d36e5f-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original no-person wallpaper scene no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T08:08:38+08:00"
+  },
+  {
+    "id": "wallpaper-1f73e3a071",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-373-wallpaper-1f73e3a071",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #373",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/238cb36a3c.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/238cb36a3c-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. Low angle perspective of a glowing bioluminescent cyberpunk nature scene. A giant lotus flower with translucent metallic petals floats above a lake, emitting soft cyan and violet light. Digital vines and fiber optic bamboo line the shore, their leaves pulsing with neon green circuits. Mist and glowing spores drift in the air, creating a layered foreground, midground, and background. The composition leaves a low-contrast area on the right for desktop icons. Cinematic lighting with strong backlight and volumetric fog. Rich color palette of deep blue, cyan, violet, and emerald. Highly detailed, intricate, hyper-realistic, majestic atmosphere",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Green",
+      "Violet"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T08:05:38+08:00"
+  },
+  {
+    "id": "wallpaper-39bbc0abe9",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-394-wallpaper-39bbc0abe9",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #394",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/1e7dd77b0d.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/1e7dd77b0d-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original no-person wallpaper scene no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:55:57+08:00"
+  },
+  {
+    "id": "wallpaper-67881aa61f",
+    "slug": "lo-fi-room-lo-fi-anime-desktop-wallpaper-prompt-for-image2-wallpaper-67881aa61f",
+    "title": "Lo-fi Room Lo-fi Anime Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around lo-fi room with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/a5b221ed2b.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/a5b221ed2b-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A cozy Lo-fi room in the evening, widescreen 16:9 wallpaper. Soft warm light from a desk lamp illuminates a wooden desk with an open notebook, a cup of tea, and a small potted plant. Rain streaks on the window pane, outside the city lights are blurred. On the left side, a record player with vinyl, a stack of books, and a cozy blanket draped over a chair. The right side is kept minimal with a plain wall and curtains, leaving space for desktop icons. The atmosphere is calm, nostalgic, with a cinematic color palette of amber and deep blue. High detail, soft shadows, subtle film grain, illustration style",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime",
+      "Lo-fi Anime"
+    ],
+    "scenes": [
+      "Lo-fi Room",
+      "City"
+    ],
+    "moods": [
+      "Calm",
+      "Cozy"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:49:25+08:00"
+  },
+  {
+    "id": "wallpaper-a7248d32ea",
+    "slug": "pixel-art-desktop-wallpaper-prompt-for-image2-wallpaper-a7248d32ea",
+    "title": "Pixel Art Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/305e3e459a.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/305e3e459a-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original pixel-art game scene wallpaper no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime",
+      "Pixel Art"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:48:46+08:00"
+  },
+  {
+    "id": "wallpaper-3595fc55a2",
+    "slug": "garden-desktop-wallpaper-prompt-for-image2-wallpaper-3595fc55a2",
+    "title": "Garden Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around garden with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/c2a88e6a5a.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/c2a88e6a5a-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A young woman with flowing auburn hair stands in a greenhouse, her profile illuminated by soft side-backlight that creates a warm rim light on her hair and shoulders. She wears an elegant Art Nouveau-inspired dress with delicate gold vine embroidery at the collar. Behind her, arched windows frame a misty garden with intertwining wisteria and irises. Metalwork tendrils curl around the window frames, catching the light. The scene is captured from a slightly low angle, emphasizing the vertical lines of the architecture and the fluid curves of the plants. Soft, muted greens and golds dominate the color palette, with scattered petals floating in the air. The composition leaves breathing space on the left side, suitable for desktop icons",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Garden"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Gold",
+      "Green"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:18:24+08:00"
+  },
+  {
+    "id": "wallpaper-c505208583",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-369-wallpaper-c505208583",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #369",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/3b3b55dd50.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/3b3b55dd50-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A surreal cosmic landscape at 16:9 aspect ratio. The sky hangs downward like a liquid curtain, with clouds transformed into cascading waterfalls of silver mist. A crescent moon is submerged in a transparent ocean suspended in midair. Raindrops rise upward against gravity, glowing with soft blue luminescence. Below, the ground reflects a different weather system — a calm mirrored surface of still water. The scene is bathed in low-saturation blue and silver tones, with clean edges and minimal clutter. Soft volumetric light penetrates the liquid sky, creating ripples of refracted light. No people or characters. High detail, cinematic atmosphere, ethereal and serene. Quality: masterpiece, highly detailed, surreal, beautiful lighting",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:12:14+08:00"
+  },
+  {
+    "id": "wallpaper-fc82d55c59",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-412-wallpaper-fc82d55c59",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #412",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/ff2ef301d2.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/ff2ef301d2-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A 16:9 cinematic nature macro wallpaper. Extreme close-up of a dew-covered leaf tip, with deep depth of field and soft backlighting. Delicate water droplets refract light, creating ethereal bokeh. In the foreground, mossy texture with tiny ferns. Misty forest floor in the background, soft green and amber tones. Wet tree bark with glistening moisture. Dreamy atmosphere with cool morning light. High detail, shallow focus, filmic quality",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Dreamy"
+    ],
+    "colors": [
+      "Green"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:06:57+08:00"
+  },
+  {
+    "id": "wallpaper-6ce564d55c",
+    "slug": "night-sky-desktop-wallpaper-prompt-for-image2-wallpaper-6ce564d55c",
+    "title": "Night Sky Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around night sky with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/02322cc66f.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/02322cc66f-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A retrofuturistic room interior as a widescreen desktop wallpaper, low angle with slight wide-angle perspective. The room features a modular sofa area with rounded furniture, a CRT monitor emitting a warm amber glow on a desk, and a large window showing a futuristic city skyline at night. Warm orange floor lamps cast soft light across the scene, contrasting with low-saturation teal accents on the walls and devices. The foreground includes a vintage cassette player and a small stack of data discs. The background has layered depth with the window view, a shelving unit with retro electronics, and a curtain on the left side providing a clean dark area suitable for desktop icons. The overall mood is calm and contemplative, with cinematic lighting emphasizing the textures of vinyl, brushed metal, and fabric. Style: semi-realistic illustration",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Night Sky",
+      "Lo-fi Room",
+      "City"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:06:17+08:00"
+  },
+  {
+    "id": "wallpaper-415ef257a0",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-390-wallpaper-415ef257a0",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #390",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/c4f5c9557b.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/c4f5c9557b-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original no-person wallpaper scene no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:04:05+08:00"
+  },
+  {
+    "id": "wallpaper-7397f55552",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-365-wallpaper-7397f55552",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #365",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/863886e05a.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/863886e05a-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original ink-wash inspired illustration no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:03:27+08:00"
+  },
+  {
+    "id": "wallpaper-c1cc262ba6",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-363-wallpaper-c1cc262ba6",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #363",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/93a99c7db2.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/93a99c7db2-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. Japandi wabi-sabi interior, no people, a wooden table with a simple ceramic vase holding a single dried branch, soft natural light from a shoji screen window on the left, a linen cushion on a tatami mat, paper lantern hanging above, muted earth tones, wood grain and stone textures, calm and serene atmosphere, high detail, wallpaper, cinematic lighting, soft shadows",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:01:10+08:00"
+  },
+  {
+    "id": "wallpaper-695f412eda",
+    "slug": "starlight-desktop-wallpaper-prompt-for-image2-wallpaper-695f412eda",
+    "title": "Starlight Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around starlight with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/57abea4eb2.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/57abea4eb2-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. Interior of a cosmic laundromat at night, 16:9 wallpaper. Cement floor with faint water stains, rows of old-fashioned washing machines glowing with neon blue and pink light. Through a large window, a massive Saturn-like ring and distant nebula float in deep space, casting a soft purple glow. One washing machine door is open, emitting steam and tiny floating stars. Clothes inside a dryer tumble with a swirl of galaxy patterns. Low contrast area on the left for desktop icons. Cinematic lighting with reflections on the wet floor. High detail, cozy atmosphere, sci-fi surrealism. No text, no logo, no people. Style: semi-realistic digital painting",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Starlight",
+      "Night Sky",
+      "River"
+    ],
+    "moods": [
+      "Cozy"
+    ],
+    "colors": [
+      "Blue",
+      "Pink",
+      "Purple"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T07:00:28+08:00"
+  },
+  {
+    "id": "wallpaper-79fed8ade3",
+    "slug": "river-desktop-wallpaper-prompt-for-image2-wallpaper-79fed8ade3",
+    "title": "River Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/5137c432f5.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/5137c432f5-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. Misty mountain range at dawn, calm lake with glassy reflections, shoreline with scattered rocks and tall grass. Soft golden light from the horizon, gentle mist between peaks. Foreground: a twisted tree branch and wildflowers. Midground: lake and distant forest. Background: layered mountains fading into pastel sky. High detail, atmospheric, cinematic, photorealistic landscape art. Soft warm colors, blue and gold palette. No text, no logos. Designed for desktop wallpaper, with breathing space on the left side for icons",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "River"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Gold",
+      "Pastel"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:58:16+08:00"
+  },
+  {
+    "id": "wallpaper-988cc70594",
+    "slug": "original-anime-desktop-wallpaper-prompt-for-image2-361-wallpaper-988cc70594",
+    "title": "Original Anime Desktop Wallpaper Prompt for Image2 #361",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/ac72e61972.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/ac72e61972-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. original sunset afterglow wallpaper no people, no characters, environment-led subject warm sunset afterglow, long shadows, glowing clouds and a calm cinematic horizon cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:51:46+08:00"
+  },
+  {
+    "id": "wallpaper-aeacca2746",
+    "slug": "river-desktop-wallpaper-prompt-for-image2-wallpaper-aeacca2746",
+    "title": "River Desktop Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K desktop wallpaper, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/b62c0e9cd9.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/b62c0e9cd9-thumb.jpg",
+    "width": 3840,
+    "height": 2160,
+    "aspectRatio": "16:9",
+    "prompt": "Aspect ratio: 16:9. A cinematic wide-shot of a futuristic megacity at dusk, viewed from a high-level transparent observation deck overlooking endless skyscrapers. The city extends horizontally with layers of towers fading into mist and warm neon light bands. In the foreground, a sleek glass railing with subtle reflections anchors the scale. Distant air traffic trails glow softly in blue and orange. The sky is deep twilight with a gradient from indigo to warm orange on the horizon. Cold blue and warm yellow lights create a balanced dual-tone color palette. The composition follows a strong horizontal perspective with low-contrast foggy area on the right side for desktop icon space. High detail on distant architecture, clean and minimal foreground. Sci-fi wallpaper style, ultra-wide aspect ratio 16:9. High quality, photorealistic rendering, depth of field, atmospheric perspective",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "River",
+      "City"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Desktop Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:28:32+08:00"
+  },
+  {
+    "id": "wallpaper-d986a4652e",
+    "slug": "starlight-phone-wallpaper-prompt-for-image2-wallpaper-d986a4652e",
+    "title": "Starlight Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around starlight with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/c75b4a1640.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/c75b4a1640-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original starlit rooftop mountain wallpaper single original character, medium or small figure, readable silhouette and outfit, non-IP identity, environment-led composition open rooftop facing distant mountains, starry sky, night wind and layered horizon depth cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Starlight",
+      "Night Sky"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:26:19+08:00"
+  },
+  {
+    "id": "wallpaper-5cbdc78b69",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-386-wallpaper-5cbdc78b69",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #386",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/df9fbd3286.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/df9fbd3286-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Minimalist architectural facade wallpaper, 9:16 aspect ratio, modern building with smooth white concrete panels, geometric stairway casting sharp diagonal shadows, large windows with reflective glass, soft overcast daylight from upper left, clean low-contrast color palette of white, gray, and pale blue, subtle textured concrete grain visible, spacious negative space at top for icons, no text or logos, cinematic composition with strong perspective lines, photorealistic style, high quality, detailed materials",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:20:41+08:00"
+  },
+  {
+    "id": "wallpaper-d9cbb8e487",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-357-wallpaper-d9cbb8e487",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #357",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/7f4a6a5699.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/7f4a6a5699-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Abstract 3D material wallpaper. Central composition: a smooth, translucent gel-like blob with metallic chrome veins, floating in a dark void. Soft gradient background from deep teal to black. Single warm light source from upper left casting sharp highlights and long shadows on the gel surface. Surrounding small floating bubbles of frosted glass reflect the light. Texture: high gloss, refractive, with subtle internal light scattering. Minimalist, clean aesthetic. No text, no person, no logo. Cinematic lighting, volumetric fog, hyperrealistic render. Quality: high detail, octane render, subsurface scattering, 8k",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:20:01+08:00"
+  },
+  {
+    "id": "wallpaper-7fdad8430d",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-384-wallpaper-7fdad8430d",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #384",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/195b1c53b2.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/195b1c53b2-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. A cinematic wallpaper scene of a surreal liquid sky physics anomaly: the sky hangs downward like a curtain of water, with clouds transformed into streaming liquid waterfalls. A full moon is submerged in a transparent ocean above, while raindrops rise upward toward the sky. The ground reflects a different weather system, with rippled water surfaces mirroring the inverted sky. The composition emphasizes vertical flow: the upper area shows the liquid sky with soft gradients of deep blue and silver, and the lower area features calm reflective water with minimal ripples. Clean negative space at top and bottom for phone UI. Lighting is dramatic with volumetric beams from the moon. Style: semi-realistic digital art with high detail on liquid edges and cloud volume. No text, logo, or watermark",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:17:05+08:00"
+  },
+  {
+    "id": "wallpaper-e4f3c83d19",
+    "slug": "night-sky-phone-wallpaper-prompt-for-image2-wallpaper-e4f3c83d19",
+    "title": "Night Sky Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around night sky with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/21abb2ecfc.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/21abb2ecfc-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. A cozy winter night scene with warm glow from a cottage window, soft snowflakes falling diagonally, bare tree branches dusted with snow in the foreground, blurred warm yellow fairy lights in the background, deep blue and cool violet twilight sky, cinematic lighting, high detail, atmospheric, wallpaper composition with breathing space at top and bottom, illustration style",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Night Sky"
+    ],
+    "moods": [
+      "Cozy"
+    ],
+    "colors": [
+      "Blue",
+      "Violet"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:14:22+08:00"
+  },
+  {
+    "id": "wallpaper-a6b11deac9",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-382-wallpaper-a6b11deac9",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #382",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/7bc7dfcc18.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/7bc7dfcc18-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Paper cut shadowbox wallpaper, layered paper art, forest moonlight scene with three paper cut tree layers, warm backlight seeping through paper edges, soft shadows between layers, paper fibers and cut edges visible, deep blue and amber color palette, celestial moon peeking through top layer, subtle glowing fireflies, 9:16 aspect ratio, intricate paper craft style, high detail, volumetric lighting, cozy atmosphere",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Cozy"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T06:13:50+08:00"
+  },
+  {
+    "id": "wallpaper-8ec392cc13",
+    "slug": "lo-fi-room-phone-wallpaper-prompt-for-image2-wallpaper-8ec392cc13",
+    "title": "Lo-fi Room Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around lo-fi room with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/dccac4a311.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/dccac4a311-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. An abandoned classroom flooded with shallow, clear water reflecting the ceiling lights and scattered flower petals. White tiles with green moss, broken wooden desks partly submerged, and hanging vines from the ceiling. Soft, diffused light from a tall window on the left creates gentle shadows. The water surface mirrors the room with ripples from a slight breeze. The atmosphere is quiet, liminal, and melancholic. High detail on wet tile texture, floating petals, and water ripples. Wallpaper style, cinematic composition, vertical framing with breathing space at top and bottom. Colors: pale blue, white, muted green, soft amber",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Lo-fi Room"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue",
+      "Green"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T05:15:53+08:00"
+  },
+  {
+    "id": "wallpaper-d0bedc26fd",
+    "slug": "night-sky-phone-wallpaper-prompt-for-image2-wallpaper-d0bedc26fd",
+    "title": "Night Sky Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around night sky with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/1b7e1af019.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/1b7e1af019-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. A cozy lofi room widescreen wallpaper, aspect ratio 9:16. The scene is a rainy night desk view: a warm desk lamp casts soft golden light on a wooden desk scattered with a notebook, a mug, and a small succulent. Outside the window, raindrops streak the glass, with distant city lights blurred. On the right, a stack of vinyl records and a vintage turntable sit on a shelf. The bed in the background has rumpled blankets and pillows. The atmosphere is calm and introspective. Soft shadows and warm tones, high detail, cinematic lighting. No text, no logo",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Night Sky",
+      "Lo-fi Room",
+      "City"
+    ],
+    "moods": [
+      "Calm",
+      "Cozy"
+    ],
+    "colors": [
+      "Gold"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T05:09:33+08:00"
+  },
+  {
+    "id": "wallpaper-db834bf427",
+    "slug": "starlight-phone-wallpaper-prompt-for-image2-wallpaper-db834bf427",
+    "title": "Starlight Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around starlight with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/95b446b282.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/95b446b282-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original stardust dream room wallpaper no people, no characters, environment-led subject quiet bedroom-like dream space, floating stardust, soft window glow and surreal night atmosphere cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Starlight",
+      "Night Sky",
+      "Lo-fi Room"
+    ],
+    "moods": [
+      "Calm",
+      "Dreamy"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T04:24:44+08:00"
+  },
+  {
+    "id": "wallpaper-5ee459cebe",
+    "slug": "pixel-art-phone-wallpaper-prompt-for-image2-wallpaper-5ee459cebe",
+    "title": "Pixel Art Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/f1ad603cfd.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/f1ad603cfd-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original pixel-art game scene wallpaper no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime",
+      "Pixel Art"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T04:08:43+08:00"
+  },
+  {
+    "id": "wallpaper-d3781fdd6a",
+    "slug": "pixel-art-phone-wallpaper-prompt-for-image2-wallpaper-d3781fdd6a",
+    "title": "Pixel Art Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/75e1b61ed5.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/75e1b61ed5-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original pixel-art game scene wallpaper no people, no characters, environment-led subject one concrete wallpaper scene, clear foreground, midground and background cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers.",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime",
+      "Pixel Art"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T04:02:39+08:00"
+  },
+  {
+    "id": "wallpaper-f84e55ce42",
+    "slug": "starlight-phone-wallpaper-prompt-for-image2-wallpaper-f84e55ce42",
+    "title": "Starlight Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around starlight with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/de9d78863b.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/de9d78863b-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original starlit rooftop mountain wallpaper no people, no characters, environment-led subject open rooftop facing distant mountains, starry sky, night wind and layered horizon depth cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Starlight",
+      "Night Sky"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T04:00:36+08:00"
+  },
+  {
+    "id": "wallpaper-b35fcc1e3a",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-374-wallpaper-b35fcc1e3a",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #374",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/bde8fee343.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/bde8fee343-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Cinematic macro wallpaper of a dew-kissed leaf on a mossy forest floor, morning mist floating softly, backlight creating sparkling highlights on water droplets, shallow depth of field with sharp veins and blurred background of green bokeh, rich textures of moss and wet bark, cool color palette with emerald and silver tones, ethereal atmosphere, hyper-detailed, 8k, premium quality",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Green"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T03:59:55+08:00"
+  },
+  {
+    "id": "wallpaper-7eb3cf33a2",
+    "slug": "garden-impressionist-anime-phone-wallpaper-prompt-for-image2-wallpaper-7eb3cf33a2",
+    "title": "Garden Impressionist Anime Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around garden with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/61d14f9635.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/61d14f9635-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Impressionist widescreen wallpaper, 9:16 aspect ratio. A secluded garden path at golden hour, with dappled sunlight filtering through leafy branches. Short visible brushstrokes and broken color technique across the scene. Foreground: a wooden bench partially covered in fallen petals. Midground: a pond reflecting warm orange and cool violet hues. Background: distant treeline softly blurred with atmospheric perspective. Airy, luminous mood with complementary warm and cool light. Soft edges, painterly texture, no hard lines. Quality: high detail brushwork, cohesive color palette, serene atmosphere. No person, no text, no watermark",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions, person, character, human, anime face, face, body, hands, eyes, back view, human silhouette, passerby, humanoid statue, doll, animal subject",
+    "styles": [
+      "Cinematic Anime",
+      "Impressionist Anime"
+    ],
+    "scenes": [
+      "Garden"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Gold",
+      "Violet"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T03:57:03+08:00"
+  },
+  {
+    "id": "wallpaper-80e3d82941",
+    "slug": "river-phone-wallpaper-prompt-for-image2-wallpaper-80e3d82941",
+    "title": "River Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/e5514c3793.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/e5514c3793-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. A young woman with light brown shoulder-length wavy hair, a yellow bow tie, and a single eye patch covering one eye, calm and subtly sarcastic expression, upright posture, wearing a structured outfit with tailored tension. She stands at a slight angle, centered, as a primary liquid chrome ribbon sweeps diagonally across the foreground, reflecting transparent glass and gel surfaces. Soft main light highlights her hair and bow tie against a dark-to-light gradient background. Deep blue and silver tones dominate, with high-quality reflections and refractive edges. Minimal environment with a clean vertical composition, leaving top breathing space for time display and bottom space for UI icons. Style: semi-realistic with anime influence, high-end wallpaper aesthetic, detailed reflections, no text, no watermark",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "River"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T03:28:33+08:00"
+  },
+  {
+    "id": "wallpaper-a669f907c2",
+    "slug": "river-phone-wallpaper-prompt-for-image2-wallpaper-a669f907c2",
+    "title": "River Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/5400d01bd3.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/5400d01bd3-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Minimalist gradient geometric wallpaper in 9:16 aspect ratio. Large soft gradient background with subtle noise, dominant warm beige to dusty rose transition. A large translucent circular disk floats in the upper center, casting a soft shadow on a faint horizontal plane below. A young woman in a flowing long dress stands at the lower third, seen from behind, her medium-length auburn hair cascading naturally, head slightly turned in profile, exposing one large brown eye and a delicate necklace. Expression calm, elegant, with a subtle downward gaze. Ground plane has a soft reflection, minimal furniture silhouette. Color palette: muted rose, cream, pale taupe, tiny accent of terracotta. Lighting: soft diffused key from upper left. Quality: high detail in gradient bands, subtle grain, clean edges, glossy surfaces",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "River"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T03:22:53+08:00"
+  },
+  {
+    "id": "wallpaper-2f4f767a02",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-351-wallpaper-2f4f767a02",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #351",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/c1d55d98d0.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/c1d55d98d0-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Surreal glass mobile wallpaper. A young woman with waist-length straight black hair and brown eyes stands in a vertical glass corridor, her expression elegant with a hint of disdain, yet she shyly lowers her head. She wears a silver-gray sleeveless top with a teal necktie. Refracted light beams and mirror fragments create layered depth around her, with soft glowing highlights on her hair and outfit. The background is a cool-toned, low-saturation space with floating glass shards. The composition ensures her face and silhouette remain clear through the transparent layers. Top and bottom areas are kept clean for lock screen usability. Style: anime-inspired illustration with semi-realistic rendering. High detail on eyes, hair strands, glass edges, and fabric texture",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T03:20:00+08:00"
+  },
+  {
+    "id": "wallpaper-067695e6f9",
+    "slug": "city-phone-wallpaper-prompt-for-image2-wallpaper-067695e6f9",
+    "title": "City Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around city with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/267f7ea794.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/267f7ea794-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Vertical ultra-wide wallpaper of a futuristic megacity at dusk, featuring towering spires, layered air traffic lanes, and soft fog with warm and cool light streaks. In the foreground, a young woman with straight bangs and amber eyes stands on a high observation deck, her expression composed yet subtly proud. She wears a sleek outfit with sharp tailoring, and abstract silver metallic ear cuffs catch the city glow. The composition emphasizes vertical depth: dense skyscrapers rise through mist, with distant ring-shaped structures and a faint space elevator. Soft main light highlights the character's silhouette and outfit details. Minimalist low-contrast margins at top and bottom. Semi-realistic digital painting style, cinematic lighting, high detail",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "City"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T03:17:06+08:00"
+  },
+  {
+    "id": "wallpaper-bf1d037fe3",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-396-wallpaper-bf1d037fe3",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #396",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/a9b5ce0d65.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/a9b5ce0d65-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original ink-wash inspired illustration single original character, medium or small figure, readable silhouette and outfit, non-IP identity, environment-led composition one concrete scene, clear depth cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T03:13:22+08:00"
+  },
+  {
+    "id": "wallpaper-4cc7392492",
+    "slug": "starlight-phone-wallpaper-prompt-for-image2-wallpaper-4cc7392492",
+    "title": "Starlight Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around starlight with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/d84d5d9412.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/d84d5d9412-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Masterpiece, best quality. Anime style, surreal sky wallpaper. A young woman with long purple gradient hair, wearing a white top and red scarf, stands in a floating stance on a reflective water surface. Her smile is sweet but her eyes are clever. She wears a gold spiral earring. Above, clouds cascade like a waterfall from a shimmering starry sky. The stars appear trapped in the liquid sky. Water droplets rise upward, defying gravity. The scene is calm with a serene atmosphere. Soft moonlight illuminates the scene, casting gentle reflections on the water",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Starlight",
+      "River"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Gold",
+      "Purple"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T02:40:12+08:00"
+  },
+  {
+    "id": "wallpaper-38f6c9e827",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-394-wallpaper-38f6c9e827",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #394",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/87390df77d.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/87390df77d-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original public wallpaper artwork single original character, medium or small figure, readable silhouette and outfit, non-IP identity, environment-led composition one concrete scene, clear depth cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T02:21:01+08:00"
+  },
+  {
+    "id": "wallpaper-749237079f",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-349-wallpaper-749237079f",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #349",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/9b07d3c2d3.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/9b07d3c2d3-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. Original dreamscape mobile wallpaper. In a mystical twilight forest, a young woman with short silver-white hair with light blue highlights stands gracefully, her sharp red eyes gazing forward with a natural, confident demeanor. She wears an elegant black-purple queenly dress with magician-inspired details, a black ribbon choker at her neck. Soft mist and floating glowing particles drift between vertical light pillars, creating a layered, ethereal atmosphere. She poses with a light, confident stance, her silhouette clear against the luminous background. High detail, anime style, cinematic lighting, soft volumetric fog, safe area at top and bottom for UI. No text, watermark, or logos",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Dreamy"
+    ],
+    "colors": [
+      "Blue",
+      "Purple"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T02:17:46+08:00"
+  },
+  {
+    "id": "wallpaper-fe4831126d",
+    "slug": "river-impressionist-anime-phone-wallpaper-prompt-for-image2-wallpaper-fe4831126d",
+    "title": "River Impressionist Anime Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/0bac1877d6.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/0bac1877d6-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. An impressionist widescreen wallpaper with visible short brushstrokes, broken color, and soft edges. A young woman with light brown-red short hair and sky-blue to ice-blue narrow eyes stands in a garden by a riverbank, wearing a white shirt with a red ribbon tied at the collar, a deep blue long skirt. Her expression is bright and open, with an idol-like poised pose. Soft, warm main light and cool complementary light create an airy atmosphere. The scene features layered vertical composition with breathing space at top and bottom. Style: impressionist illustration, high detail, atmospheric",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime",
+      "Impressionist Anime"
+    ],
+    "scenes": [
+      "River",
+      "Garden"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Blue"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T02:14:12+08:00"
+  },
+  {
+    "id": "wallpaper-4dd04aa216",
+    "slug": "original-anime-phone-wallpaper-prompt-for-image2-368-wallpaper-4dd04aa216",
+    "title": "Original Anime Phone Wallpaper Prompt for Image2 #368",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around original anime scene with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/ab8c28c393.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/ab8c28c393-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. original public wallpaper artwork single original character, medium or small figure, readable silhouette and outfit, non-IP identity, environment-led composition one concrete scene, clear depth cinematic lighting, coherent palette, refined material highlights polished wallpaper, clear focus, clean layers",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "Original Scene"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T01:50:23+08:00"
+  },
+  {
+    "id": "wallpaper-b4d79a4dce",
+    "slug": "river-phone-wallpaper-prompt-for-image2-wallpaper-b4d79a4dce",
+    "title": "River Phone Wallpaper Prompt for Image2",
+    "description": "A ready-to-copy Image2 prompt for a 4K phone lock screen, built around river with an unknown original character.",
+    "imageUrl": "https://media.aiwallpaperprompts.com/gallery/originals/8cbb814fc6.jpg",
+    "thumbUrl": "https://media.aiwallpaperprompts.com/gallery/thumbs/8cbb814fc6-thumb.jpg",
+    "width": 2160,
+    "height": 3840,
+    "aspectRatio": "9:16",
+    "prompt": "Aspect ratio: 9:16. White long straight hair, red dress with a black abstract light accent, standing poised with a serene smile. She stands in a gallery of translucent glass bubbles, soft liquid chrome reflections on the floor, smooth ceramic columns. Soft rim light from above, gradient background from teal to lavender. High-end 3D render, abstract material wallpaper style, sharp focus on glass and liquid metal textures",
+    "negativePrompt": "low quality, blurry, text, watermark, logo, bad face, bad hands, extra limbs, wrong proportions",
+    "styles": [
+      "Cinematic Anime"
+    ],
+    "scenes": [
+      "River"
+    ],
+    "moods": [
+      "Calm"
+    ],
+    "colors": [
+      "Mixed"
+    ],
+    "uses": [
+      "Mobile Wallpaper"
+    ],
+    "createdAt": "2026-06-05T01:35:24+08:00"
+  },
+  {
     "id": "wallpaper-ac73abae3e",
     "slug": "night-sky-desktop-wallpaper-prompt-for-image2-wallpaper-ac73abae3e",
     "title": "Night Sky Desktop Wallpaper Prompt for Image2",

@@ -429,6 +429,7 @@ async function main() {
         missing: missing.length,
         totalPublicItems: merged.length,
         storage: useR2 ? "cloudflare-r2" : "vercel-public",
+        skippedItems: skipped,
         missingItems: missing
       },
       null,

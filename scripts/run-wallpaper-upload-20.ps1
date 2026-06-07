@@ -98,11 +98,20 @@ if (-not $JsonStart) {
   throw "Could not find JSON output from daily:gallery."
 }
 $UploadJson = ($UploadRaw[($JsonStart - 1)..($UploadRaw.Count - 1)] -join "`n") | ConvertFrom-Json
-if ([int]$UploadJson.added -ne $Count) {
-  throw "Upload added $($UploadJson.added), expected $Count. Stop before archive."
-}
 if ([int]$UploadJson.missing -ne 0) {
   throw "Selected batch reported missing files. Stop before archive."
+}
+$Handled = [int]$UploadJson.added + [int]$UploadJson.skipped
+if ($Handled -ne $Count) {
+  throw "Upload handled $Handled items, expected $Count. Stop before archive."
+}
+$SkippedItems = @($UploadJson.skippedItems)
+$UnexpectedSkips = @($SkippedItems | Where-Object {
+  $_.reason -ne "already uploaded" -and $_.reason -ne "item already exists"
+})
+if ($UnexpectedSkips.Count -gt 0) {
+  $Reasons = ($UnexpectedSkips | ForEach-Object { "$($_.filename): $($_.reason)" }) -join "; "
+  throw "Selected batch had unexpected skipped items: $Reasons. Stop before archive."
 }
 
 Write-Step "Build site"
